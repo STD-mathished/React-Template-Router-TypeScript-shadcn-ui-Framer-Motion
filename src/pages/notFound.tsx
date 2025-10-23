@@ -1,5 +1,15 @@
+import { motion } from "motion/react"
+
 export default function NotFound() {
     return(
-        <h1>Page has not been foud</h1>
+        <motion.h1
+            className="text-center"
+
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.95 }}
+        >
+            Page has not been foud
+
+        </motion.h1>
     )
 }
