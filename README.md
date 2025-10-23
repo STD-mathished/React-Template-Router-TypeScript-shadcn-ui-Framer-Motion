@@ -16,8 +16,8 @@ Ce template vise la simplicité : tout fonctionne, et tu peux retirer les partie
 
 ```bash
 # 1) Utiliser ce repo comme template 
-git clone <url-du-template> mon-nouveau-projet
-cd mon-nouveau-projet
+git clone React-Template-Router-TypeScript-shadcn-ui-Framer-Motion
+cd React-Template-Router-TypeScript-shadcn-ui-Framer-Motion
 
 # 2) Installer les deps
 npm i        # ou yarn / npm install
