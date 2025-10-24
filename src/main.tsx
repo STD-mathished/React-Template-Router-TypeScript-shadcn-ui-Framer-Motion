@@ -12,5 +12,5 @@ createRoot(document.getElementById('root')!).render(
       <Route path="/license" element={<License />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
-  </BrowserRouter>,
+  </BrowserRouter>
 )
